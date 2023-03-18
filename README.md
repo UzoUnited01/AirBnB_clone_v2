@@ -8,6 +8,6 @@ ALXBnB is a complete web application, integrating database storage, a back-end A
 The project currently only implements the back-end console.
 
 ## Authors:
-Uzochukwu Ofonyiri
+[Uzochukwu Ofonyiri](https://github.com/UzoUnited01)
 
-Muhammed Kabir
+[Muhammed Kadir](https://github.com/kaymohh)
